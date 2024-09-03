@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- 타이틀 -->
 <div algin="center">
-  🫧<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+crlkg's+Github)](https://git.io/typing-svg">🫧
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+crlkg's+Github)](https://git.io/typing-svg">
 </div>
 
 <!-- 내용 -->
